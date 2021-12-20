@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - obstacle
+  - endpost
+  - player
+  - car
+  - truck
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - ground
+  - Water
+  - UI
+  - grindable
+  - 
+  - endpost
+  - particles
+  - PostProcessing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: frame
+    uniqueID: 2544126399
+    locked: 0
+  - name: Para3
+    uniqueID: 689845125
+    locked: 0
+  - name: Para2
+    uniqueID: 2919106305
+    locked: 0
+  - name: Para1
+    uniqueID: 783773253
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Sky
+    uniqueID: 3914256551
+    locked: 0
+  - name: Clouds
+    uniqueID: 1764950439
+    locked: 0
+  - name: Buildings_BG
+    uniqueID: 3481851077
+    locked: 0
+  - name: Buildings_MG
+    uniqueID: 504194951
+    locked: 0
+  - name: Buildings_FG
+    uniqueID: 2542681345
+    locked: 0
+  - name: St
+    uniqueID: 45113149
+    locked: 0
+  - name: level
+    uniqueID: 4251413985
+    locked: 0
+  - name: Speed
+    uniqueID: 1185243895
+    locked: 0
+  - name: Player
+    uniqueID: 1261159479
+    locked: 0
+  - name: Particles
+    uniqueID: 4124819131
+    locked: 0
